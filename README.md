@@ -17,6 +17,8 @@
 
 ## About The Project
 
+this repo has just the purpuse to be a testing ground
+
 ### Built With
 
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -27,6 +29,6 @@
 Renaud Baussart
 ## License
 
-Distributed under the MIT License. `LICENSE` See for more information.
+Distributed under the Apache License. `LICENSE` See for more information.
 
 ## Ressource
